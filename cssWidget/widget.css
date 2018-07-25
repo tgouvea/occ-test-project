@@ -1,0 +1,145 @@
+.oi-container{
+
+    background-image: url(../img/bac.jpg);
+
+}
+
+.oi-header {
+    display: inline-flex;
+    margin-bottom: 1%;
+    margin-top: 2%;
+}
+
+.oi-header h1 {
+    padding: 0 0 0 0;
+    margin: 0 0 0 63px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    line-height: 2.71;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: SimplonBP-Headline;
+}
+
+.img-logo-oi{
+
+    padding: 0;
+    margin: 0 0 20px 60px;
+
+}
+
+/* Title */
+
+.oi-title-msg-pedido{
+
+    margin: 20px 0 0 153px;
+
+}
+
+.oi-title-msg-pedido h2{
+    margin: 19px 0 0 0;
+}
+
+.oi-texto-msg-pedido {
+    font-size: 21px;
+    margin: 0 0 0px 8px;
+}
+
+.img-andamento-oi{
+
+    margin: 35px 0 0 153px;
+
+}
+
+
+/* Title 2 */
+.oi-title2-msg-pedido{
+
+    margin: 19px 0 0 161px;
+
+}
+
+.oi-title2-msg-pedido h3{
+    margin: 19px 0 0 0;
+}
+
+.oi-title2-msg-pedido p {
+    font-size: 16px;
+    color: gray;
+    margin: 0 0 0 0;
+}
+
+.oi-title2-msg-pedido hr {
+    color: gray;
+    margin: 26px 0 0 0;
+    max-width: 685px;
+    padding: 0 0 0 0;
+}
+
+/* Title 3 */
+.oi-title3-msg-pedido{
+
+    margin: 19px 0 0 161px;
+
+}
+
+.oi-title3-msg-pedido h4{
+    margin: 0 0 0 0;
+    font-weight: none;
+}
+
+.oi-title3-msg-pedido p {
+    font-size: 16px;
+    color: gray;
+    margin: 5px 0 0 0;
+}
+
+.oi-title3-msg-pedido hr {
+    color: gray;
+    margin: 26px 0 0 0;
+    max-width: 685px;
+    padding: 0 0 0 0;
+}
+
+
+/* Botão minha Oi*/
+.oi-btn-minhaoi {
+    margin:6px 0 0 165px;
+    width: 150px;
+
+    height: 35px;
+    border-radius: 4px;
+    padding: 10px 14px 10px 10px;
+    text-align: center;
+    color: #fff;
+    font-size: 15px;
+    font-family: SimplonBP-Regular;
+    background-image: linear-gradient(283deg, #fe6b03, #e33465);
+    -webkit-box-shadow: 6px 5px 34px 2px rgba(0,0,0,0.2);
+    -moz-box-shadow: 6px 5px 34px 2px rgba(0,0,0,0.2);
+    box-shadow: 6px 5px 34px 2px rgba(0,0,0,0.2);
+    cursor: pointer;
+    margin-bottom: 0;
+    -webkit-transition : all 500ms ease;
+    -moz-transition : all 500ms ease;
+    -o-transition : all 500ms ease;
+    transition : all 500ms ease;
+    position: relative;
+    z-index: 100;
+
+}
+
+.oi-btn-minhaoi :hover{
+   
+    opacity: 1;
+
+}
+
+.oi-btn-minhaoi span {
+
+    font-family: SimplonBP-Regular;
+    font-size: 16px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
